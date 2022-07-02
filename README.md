@@ -1,5 +1,5 @@
 I'm Vladislav and I'm Full-stack developer.
-My stack:
+## My stack:
 <b>PHP (Laravel), JS (React.js), Golang</b>
 
 <a href="https://github.com/dbbgroup">
